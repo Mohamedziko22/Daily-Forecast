@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Daily Forecast</string>
+    <string name="city_name">City name</string>
+    <string name="search">Search</string>
+    <string name="required">Required Field</string>
+    <string name="api_key">44e68b0a5acaced3f2d8c6943896acba</string>
+    <string name="retry">Retry</string>
+    <string name="sorry_error">Sorry Error</string>
+    <string name="error_connection">Error Connection</string>
+    <string name="main_is">"Main is "</string>
+    <string name="weather_is">"Weather is "</string>
+    <string name="not_accurate_data">not accurate data</string>
+    <string name="enter_city_name">Enter city Name</string>
+</resources>
